@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Art Space app</string>
+    <string name="caption1">Paint</string>
+    <string name="caption2">Bleeding Woman</string>
+    <string name="caption3">Art</string>
+    <string name="caption4">Dattebayo</string>
+    <string name="caption5">Skull Knight</string>
+    <string name="artist1">Child</string>
+    <string name="artist2">Horny Child</string>
+    <string name="artist3">What i wanted to be in</string>
+    <string name="artist4">Sasuke</string>
+    <string name="artist5">Berserker Armor</string>
+    <string name="date1">1</string>
+    <string name="date2">13</string>
+    <string name="date3">2023</string>
+    <string name="date4">1999</string>
+    <string name="date5">1 BC</string>
+
+</resources>
