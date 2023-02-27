@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">Superheroes app</string>
+    <string name="hero1">hero1</string>
+    <string name="description1">description1</string>
+    <string name="hero2">hero2</string>
+    <string name="description2">description2</string>
+    <string name="hero3">hero3</string>
+    <string name="description3">description3</string>
+    <string name="hero4">hero4</string>
+    <string name="description4">description4</string>
+    <string name="hero5">hero5</string>
+    <string name="description5">description5</string>
+    <string name="hero6">hero6</string>
+    <string name="description6">description6</string>
+    <string name="superheroes">Superheroes</string>
 </resources>
